@@ -7,7 +7,6 @@ function checkedIfLoggedIn(){
     } else {
         
        echo "You are logged in";
-    //    logIn();
     }
 }
 

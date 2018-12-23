@@ -19,9 +19,6 @@ $_SESSION['password'] = $_POST['pwd'];
 
 if(isset($_POST['submit'])){
   checkedIfLoggedIn();
-if ($loggedIn === TRUE) {
-  logIn();
-}
   };
   
 
